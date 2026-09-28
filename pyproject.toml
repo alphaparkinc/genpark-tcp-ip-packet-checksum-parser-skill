@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-tcp-ip-packet-checksum-parser-skill"
+version = "1.0.0"
+description = "IPv4 header serialization, Internet checksum verification, and raw packet parsing engine"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/alphaparkinc/genpark-tcp-ip-packet-checksum-parser-skill.git"
