@@ -1,0 +1,9 @@
+{
+  "name": "genpark-tcp-ip-packet-checksum-parser-skill",
+  "version": "1.0.0",
+  "description": "IPv4 header serialization, Internet checksum verification, and raw packet parsing engine",
+  "entry_point": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service",
+  "dependencies": []
+}
