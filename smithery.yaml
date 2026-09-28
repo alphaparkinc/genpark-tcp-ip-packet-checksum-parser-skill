@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-tcp-ip-packet-checksum-parser-skill
+service:
+  name: genpark-tcp-ip-packet-checksum-parser-skill
+  command: python
+  args:
+    - mcp_server.py
